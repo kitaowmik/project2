@@ -1,6 +1,6 @@
 
 import * as THREE from '../build/three.module.js';
-import {OrbitControls} from '/../src/OrbitControls.js';
+import {OrbitControls} from 'src/OrbitControls.js';
 import { Water } from '/../src/Water.js';
 import { Sky } from '/../src/Sky.js';
 import { GLTFLoader } from '/../src/GLTFLoader.js';

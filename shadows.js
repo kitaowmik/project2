@@ -6,7 +6,7 @@ import { Sky } from './src/Sky.js';
 import { GLTFLoader } from './src/GLTFLoader.js';
 
 
-function init () {}
+
     //setting the scene up
 
     const scene = new THREE.Scene();
